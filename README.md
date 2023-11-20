@@ -1,2 +1,2 @@
-# little_programms
-Job interview s tasks
+# Здесь будут все небольшие математически задачки
+
